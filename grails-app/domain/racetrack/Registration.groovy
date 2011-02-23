@@ -15,6 +15,6 @@ class Registration {
     }
     
     String toString() {
-    	return "${name}, ${startDate.format('MM/dd/yyyy')}"
+    	return "${id} - ${runner.lastName}, ${runner.firstName}"
     }
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="dubu" name="racetrack.RegistrationControllerTests" tests="1" time="0.076" timestamp="2011-02-21T06:28:53">
+  <properties />
+  <testcase classname="racetrack.RegistrationControllerTests" name="testSomething" time="0.073" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
